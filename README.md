@@ -1,4 +1,4 @@
-# **Bike-sales-dashboard**
+# **Bike-Sales-Dashboard**
 
 # Introduction:
 
