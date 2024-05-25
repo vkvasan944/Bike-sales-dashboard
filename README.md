@@ -4,6 +4,8 @@ This project involved a comprehensive analysis of bike sales data to identify ke
 
 # bike dashboard
 
+https://github.com/vkvasan944/Bike-sales-dashboard/issues/1#issue-2316718293
+
 # Data Preparation and Transformation:
 
 **Duplicate Removal** : We began by removing duplicates, eliminating 26 duplicate entries and retaining 1000 unique records.
