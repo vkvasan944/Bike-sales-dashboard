@@ -1,5 +1,3 @@
-# **Bike-Sales-Dashboard**
-
 # Introduction:
 
 This project involved a comprehensive analysis of bike sales data to identify key consumer trends and preferences in the bike market. The data, structured across 13 columns, provided a detailed view of customer demographics, socioeconomic status, and purchasing behaviors.
